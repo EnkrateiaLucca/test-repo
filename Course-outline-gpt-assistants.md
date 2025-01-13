@@ -1,0 +1,3 @@
+This course aims to provide a comprehensive overview of how to build AI agents using the OpenAI assistants API. It will begin with fundamental concepts such as understanding the principles of artificial intelligence, exploring the OpenAI assistants API, and setting up the environment for development.
+
+After understanding the fundamentals, the course will delve deeper into the topics of agent creation, training, and optimization. In addition, we'll dive into real-world use-case scenarios that illustrate the applications and benefits of using AI assistants. By the end of this course, students should be able to develop and deploy their own AI assistants using the OpenAI assistants API.
